@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Department of Psychological Sciences at the University of Connecticut. I work in the Language Creation Lab (https://languagecreationlab.uconn.edu/) with Dr. Marie Coppola. I graduated from the University of Chicago in 2018 with a BA in Psychology and Linguistics and am currently pursuing a PhD in developmental psychology. 
+I am a graduate student in the Department of Psychological Sciences at the University of Connecticut. I work in the [Language Creation Lab] (https://languagecreationlab.uconn.edu/) with Dr. Marie Coppola. I graduated from the University of Chicago in 2018 with a BA in Psychology and Linguistics and am currently pursuing a PhD in developmental psychology. 
 
 My research interests include (1) language emergence and development, with a focus on homesign, and (2) numerical cognition, particularly how language experience can affect mathematics knowledge.
 
