@@ -32,21 +32,21 @@ redirect_from:
 ## Grants, Honors & Awards
 
 <p style="margin-left: 40px"><b>2021</b>
-<br></p> Science of Learning and Art of Communication (SLAC) Fellow (2021-2022)
+<br>Science of Learning and Art of Communication (SLAC) Fellow (2021-2022)</p>
 
 <p style="margin-left: 40px"><b>2020</b>
-<br>The Connecticut Institute for the Brain and Cognitive Sciences (IBACS) Graduate Summer Fellowship
+<br>The Connecticut Institute for the Brain and Cognitive Sciences (IBACS) Graduate Summer Fellowship</p>
 
 <p style="margin-left: 40px"><b>2019</b>
 <br>Harriott Fellowship, <i>University of Connecticut</i> (2019-2024)
-<br>Segal Education Award, <i>AmeriCorps</i>
+<br>Segal Education Award, <i>AmeriCorps</i></p>
 
 <p style="margin-left: 40px"><b>2018</b>
 <br>University Scholar Award, <i>University of Chicago</i> (2014-2018)
-<br>Dean's List, <i>University of Chicago</i> (2014-2018)
+<br>Dean's List, <i>University of Chicago</i> (2014-2018)</p>
 
 <p style="margin-left: 40px"><b>2017</b>
-<br>Student Marshal, <i>University of Chicago</i> (2017-2018)
+<br>Student Marshal, <i>University of Chicago</i> (2017-2018)</p>
 
 <p style="margin-left: 40px"><b>2016</b>
 <br>Foreign Language Acquisition Grant, <i>University of Chicago</i></p>
