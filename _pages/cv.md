@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
+
+<p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b>
+<br>University of Connecticut
+<br><i>Anticipated 2024</i></p>  
+
+<p style="margin-left: 40px"><b>BA in Psychology and Linguistics</b>
+<br>State University of Chicago
+<br><i>June 2018</i></p>  
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
