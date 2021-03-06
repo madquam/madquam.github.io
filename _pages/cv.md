@@ -19,17 +19,6 @@ redirect_from:
 <br>University of Chicago
 <br><i>June 2018</i></p>  
 
-## Publications
-
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children. <i>Journal of Numerical Cognition</i>.
-<br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
-
-<p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (<i>in progress</i>). Handshape preference for tools in mature homesign systems: Implications for language emergence and language typology.</p>
-
-## Conference Presentations
-
-<p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Poster session]. Mathematical Cognition and Learning Society (MCLS) Conference, Dublin, Ireland. Virtual.</p>
-
 ## Grants, Honors & Awards
 
 <p style="margin-left: 40px"><b>2021</b>
@@ -50,7 +39,7 @@ redirect_from:
 <br>Student Marshal, <i>University of Chicago</i> (2017-2018)</p>
 
 <p style="margin-left: 40px"><b>2016</b>
-<br>Foreign Language Acquisition Grant, <i>University of Chicago</i></p>
+<br>Foreign Language Acquisition Grant, <i>University of Chicago & Universidad de Salamanca</i></p>
 
 ## Research Experience
 
@@ -74,6 +63,17 @@ redirect_from:
 <br>Supervisor: Eileen Graf
 <br>Projects: Kenneth Rainin Foundation in the Early Childhood Research & Practice Collaborative Project; ACF Early Childhood T/TA System Cross-System Evaluation Project
 <br><i>February 2016 — September 2018</i></p>
+
+## Publications
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children. <i>Journal of Numerical Cognition</i>.
+<br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (<i>in progress</i>). Handshape preference for tools in mature homesign systems: Implications for language emergence and language typology.</p>
+
+## Conference Presentations
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Poster session]. Mathematical Cognition and Learning Society (MCLS) Conference. Virtual.</p>
 
 ## Work Experience
 
