@@ -19,11 +19,15 @@ redirect_from:
 <br>State University of Chicago
 <br><i>June 2018</i></p>  
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Publications
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children. <i>Journal of Numerical Cognition</i>.</p>
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (<i>in progress</i>). Handshape preference for tools in mature homesign systems: Implications for language emergence and language typology.</p>
+
+## Conference Presentations
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Poster session]. Mathematical Cognition and Learning Society (MCLS) Conference, Dublin, Ireland. Virtual.</p>
 
 Work experience
 ======
