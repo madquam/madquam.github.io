@@ -21,7 +21,8 @@ redirect_from:
 
 ## Publications
 
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children. <i>Journal of Numerical Cognition</i>.</p>
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children. <i>Journal of Numerical Cognition</i>.
+<br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (<i>in progress</i>). Handshape preference for tools in mature homesign systems: Implications for language emergence and language typology.</p>
 
