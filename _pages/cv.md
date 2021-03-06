@@ -16,7 +16,7 @@ redirect_from:
 <br><i>Anticipated 2024</i></p>  
 
 <p style="margin-left: 40px"><b>BA in Psychology and Linguistics</b>
-<br>State University of Chicago
+<br>University of Chicago
 <br><i>June 2018</i></p>  
 
 ## Publications
@@ -28,6 +28,28 @@ redirect_from:
 ## Conference Presentations
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Poster session]. Mathematical Cognition and Learning Society (MCLS) Conference, Dublin, Ireland. Virtual.</p>
+
+## Grants, Honors & Awards
+
+<p style="margin-left: 40px"><b>2021</b>
+<br></p> Science of Learning and Art of Communication (SLAC) Fellow (2021-2022)
+
+<p style="margin-left: 40px"><b>2020</b>
+<br>The Connecticut Institute for the Brain and Cognitive Sciences (IBACS) Graduate Summer Fellowship
+
+<p style="margin-left: 40px"><b>2019</b>
+<br>Harriott Fellowship, <i>University of Connecticut</i> (2019-2024)
+<br>Segal Education Award, <i>AmeriCorps</i>
+
+<p style="margin-left: 40px"><b>2018</b>
+<br>University Scholar Award, <i>University of Chicago</i> (2014-2018)
+<br>Dean's List, <i>University of Chicago</i> (2014-2018)
+
+<p style="margin-left: 40px"><b>2017</b>
+<br>Student Marshal, <i>University of Chicago</i> (2017-2018)
+
+<p style="margin-left: 40px"><b>2016</b>
+<br>Foreign Language Acquisition Grant, <i>University of Chicago</i></p>
 
 Work experience
 ======
