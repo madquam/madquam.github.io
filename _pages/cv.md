@@ -81,6 +81,7 @@ redirect_from:
 <br><i>Student Success Coach</i>
 <br> Chicago, IL
 <br>Tutoring and whole-class support for 6th, 7th and 8th grade math in both English and Spanish
+<br>Organized after school science club programming
 <br><i>August 2018 — June 2019</i></p>   
 
 ## Skills
