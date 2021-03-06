@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b>
 <br>University of Connecticut
-<br><i>Anticipated 2024</i></p>  
+<br><i>Expected 2024</i></p>  
 
 <p style="margin-left: 40px"><b>BA in Psychology and Linguistics</b>
 <br>University of Chicago
@@ -72,7 +72,7 @@ redirect_from:
 <br><i>Research Assistant</i>
 <br>Chicago, IL
 <br>Supervisor: Eileen Graf
-<br>Projects: Kenneth Rainin Foundation in the Early Childhood Research & Practice Collaborative Project; ACF Early Childhood T/TA System Cross-System Evaluation Project.
+<br>Projects: Kenneth Rainin Foundation in the Early Childhood Research & Practice Collaborative Project; ACF Early Childhood T/TA System Cross-System Evaluation Project
 <br><i>February 2016 — September 2018</i></p>
 
 ## Work Experience
