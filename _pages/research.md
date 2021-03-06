@@ -11,4 +11,6 @@ Representing small quantities (i.e., 1–3) is thought to be independent of lang
 ## How are handshape preferences shared (or not) amongst homesigners and their communication partners?
 Homesigners are deaf individuals with no access to signed or spoken language who innovate gesture systems in order to communicate with the hearing people around them (Brentari & Coppola, 2012). Since there is typically no contact between homesigners and thus no actual linguistic community, each homesigner must create their own unique system to use with their communication partners, the hearing family members and friends who interact with the homesigner.  Current research seeks to investigate whether handshape patterns for labeling objects, a common typological variation that exists in sign languages, are shared by homesigners and their communication partners. More broadly, this research aims to address the question of whether there is a universal tendency for specific types of handshape when naming objects. Future research will explore factors that influence handshape pattern sharing within families.
 
+![alt-text](images/MrEPoster.gif "Mr Elephant Poster")
+
 <img src="images/MrEPoster.gif">
