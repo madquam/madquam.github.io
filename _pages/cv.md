@@ -52,45 +52,42 @@ redirect_from:
 <p style="margin-left: 40px"><b>2016</b>
 <br>Foreign Language Acquisition Grant, <i>University of Chicago</i></p>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<p style="margin-left: 40px"><b>Language Creation Lab</b>
+<br><i>Graduate Assistant</i>
+<br> University of Connecticut
+<br>Supervisor: Marie Coppola
+<br>Projects: Study of Language and Math (SLaM); Nicaraguan Homesign Systems 
+<br><i>August 2019 — present</i></p>    
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<p style="margin-left: 40px"><b>Goldin-Meadow Lab</b>
+<br><i>Research Assistant</i>
+<br>University of Chicago
+<br>Supervisor: Susan Goldin-Meadow
+<br>Projects: Noun-Verb Distinction in Established and Emergent Signed Systems; Conventionalization of Shared Homesign Systems in Guatemala
+<br><i>March 2017 — June 2019</i></p>
+
+<p style="margin-left: 40px"><b>National Opinion Research Center</b>
+<br><i>Research Assistant</i>
+<br>Chicago, IL
+<br>Supervisor: Eileen Graf
+<br>Projects: Kenneth Rainin Foundation in the Early Childhood Research & Practice Collaborative Project; ACF Early Childhood T/TA System Cross-System Evaluation Project.
+<br><i>February 2016 — September 2018</i></p>
+
+## Work Experience
+
+<p style="margin-left: 40px"><b>City Year</b>
+<br><i>Student Success Coach</i>
+<br> Chicago, IL
+<br>Tutoring and whole-class support for 6th, 7th and 8th grade math in both English and Spanish
+<br><i>August 2018 — June 2019</i></p>   
+
+## Skills
+
+<p style="margin-left: 40px"><b>Technical</b>
+<br>R, github, PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
+
+<p style="margin-left: 40px"><b>Languages</b>
+<br>Proficient in Spanish, Conversational in American Sign Language</p> 
+
