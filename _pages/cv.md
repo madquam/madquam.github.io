@@ -114,7 +114,7 @@ redirect_from:
 ## Skills
 
 <p style="margin-left: 40px"><b>Technical</b>
-<br>R, github, PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
+<br>R (including Markdown and github), PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
 
 <p style="margin-left: 40px"><b>Languages</b>
 <br>Proficient in Spanish, Conversational in American Sign Language</p> 
