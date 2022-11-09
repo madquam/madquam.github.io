@@ -34,12 +34,12 @@ author_profile: true
 <i>BUCLD poster (2022).</i>
 ![Quam_BUCLD](https://user-images.githubusercontent.com/56047880/200932975-0ffd8924-06cc-482f-b274-5b98da11287d.png)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#{% if author.googlescholar %}
+  #You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+#{% endif %}
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+  #{% include archive-single.html %}
+#{% endfor %}
