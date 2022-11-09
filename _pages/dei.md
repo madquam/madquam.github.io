@@ -13,10 +13,10 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>MAGIC Co-Founder, University of Connecticut</b>
 <br>"Mentoring Aspiring Graduate students and building an Inclusive Community</p> 
-<br><i>May 2021-present</i></p> 
-<br>Compiled resources; organized meetings; recruited mentors; used program to match mentees/mentors</p>
-<br>Ran MAGIC Twitter account</p>
-<br>Met with mentees to give advice about graduate school; held virutal orientation sessions</p>
+<p><i>May 2021-present</i></p> 
+<p>Compiled resources; organized meetings; recruited mentors; used program to match mentees/mentors</p>
+<p>Ran MAGIC Twitter account</p>
+<p>Met with mentees to give advice about graduate school; held virutal orientation sessions</p>
 
 <p style="margin-left: 40px"><b>Sign Language Research Discussion Group Coordinator, University of Connecticut</b> 
 <br><i>Aug 2020-present</i></p> 
