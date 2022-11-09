@@ -5,7 +5,13 @@ main:
     
   - title: "Research"
     url: /research/
+    
+  - title: "Publications & Presentations"
+    url: /publications/
 
+  - title: "Diversity, Equity & Inclusion"
+    url: /dei/
+  
   - title: "CV"
     url: /cv/    
 
