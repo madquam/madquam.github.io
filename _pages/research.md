@@ -25,7 +25,7 @@ Homesigners are deaf individuals with no access to signed or spoken language who
 
 ## Conference Presentations
 
-<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Child Language Development (BUCLD).</p>
+<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in ASL]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
 
@@ -41,7 +41,7 @@ Homesigners are deaf individuals with no access to signed or spoken language who
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Virtual poster session]. Mathematical Cognition and Learning Society (MCLS) Conference.</p>
 
-<i>BUCLD poster (2022)</i>
+<i>BUCLD poster (2022).</i>
 ![Quam_BUCLD](https://user-images.githubusercontent.com/56047880/200932975-0ffd8924-06cc-482f-b274-5b98da11287d.png)
 
 
