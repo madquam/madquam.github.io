@@ -78,7 +78,7 @@ redirect_from:
 
 ## Conference Presentations
 
-<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Child Language Development (BUCLD).</p>
+<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in ASL]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
 
