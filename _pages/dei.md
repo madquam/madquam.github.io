@@ -12,7 +12,7 @@ redirect_from:
 ## Commitment to Diversity, Equity & Inclusion
 
 <p style="margin-left: 40px"><b>MAGIC Co-Founder, University of Connecticut</b>
-<br>"Mentoring Aspiring Graduate students and building an Inclusive Community 
+<br>"Mentoring Aspiring Graduate students and building an Inclusive Community" 
 <br><i>May 2021-present</i> 
 <br>•Compiled resources; organized meetings; recruited mentors; used program to match mentees/mentors
 <br>•Ran MAGIC Twitter account
