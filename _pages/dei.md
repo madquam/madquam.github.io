@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+If you are thinking about going to grad school (especially if you are first-gen, BIPOC, and/or part of a historically marginalized group), check out our [MAGIC Mentorship program](https://magic.initiative.uconn.edu/). Prospective students can sign up as mentees to be connected with mentors [here](https://magic.initiative.uconn.edu/mentee-sign-up/). Current grad students and faculty can sign up to be mentors [here](https://magic.initiative.uconn.edu/mentor-sign-up/).
+
 ## Commitment to Diversity, Equity & Inclusion
 
 <p style="margin-left: 40px"><b>MAGIC Co-Founder, University of Connecticut</b>
