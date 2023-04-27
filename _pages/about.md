@@ -12,6 +12,6 @@ I'm a fourth year graduate student in the Department of Psychological Sciences a
 
 Currently, I'm involved in the [Study of Language and Math (SLaM)](https://slam.uconn.edu/). I am also a trainee for the [Science of Learning and Art of Communication (SLAC)](http://slac.uconn.edu/) and an affiliate of the [Connecticut Institute for the Brain and Cognitive Sciences (IBACS)](https://ibacs.uconn.edu/). I am working on graduate certificates in the [Neurobiology of Language program](https://nbl.cogsci.uconn.edu/) and the [Cognitive Science program](https://cogsci.uconn.edu/) at UConn.
 
-My research interests include both number cognition and language emergence. Specifically I am interested in (1) how language experience can affect math knowledge and (2) how homesign systems, which are created by deaf individuals with no access to signed or spoken language, vary across and within families.
+My research interests include both number cognition and language emergence. Specifically I am interested in (1) how language experience can affect math knowledge and other foundational concepts and (2) how homesign systems, which are created by deaf individuals with no access to signed or spoken language, vary across and within families.
 
 Early access to language is super important. This includes sign languages!
