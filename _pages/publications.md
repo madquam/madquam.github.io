@@ -17,19 +17,30 @@ redirect_from:
 
 ## Conference Presentations
 
-<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
+### Talks
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in ASL]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
+<p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in American Sign Language]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b> (2022, Apr. 29). <i>The role of language in object tracking: evidence from deaf, hard- of-hearing and typically hearing children.</i> [Data blitz]. Connecticut Institute for the Brain and Cognitive Sciences Meet and Greet, University of Connecticut.</p>
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2022, Apr. 27). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Language Fest, University of Connecticut.</p>
-
 <p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2022, Mar. 15). <i>How does language experience influence numerical cognition?</i> [Data blitz]. EDULANG Conference, Trondheim, Norway.</p>
 
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2021, Apr. 29). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Virtual poster session]. Language Fest, University of Connecticut.</p>
-
 <p style="margin-left: 40px">Walker, K., Langdon, C., Dicker, M., Carrigan, E., Goodwin, C., Santos, S., <b>Quam, M.</b> & Coppola, M. (2020). <i>Early robust language access is critical for mathematics development.</i> [Virtual lightning talk]. Home Mathematics Environment Conference.</p>
+
+
+### Posters
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Gill, M., Lopez, J., Scroggins, L. & Coppola, M. (2023, Apr. 26). <i>What can we
+learn from children’s counting errors in ASL and English?</i> [Poster session]. Language Fest, University of Connecticut.</p>
+
+<p style="margin-left: 40px">Lopez, J., <b>Quam, M.</b> & Coppola, M. (2023, Apr. 26). <i>1, 2, 3, FIVE? Palm orientation and
+counting language in native signing deaf children.</i> [Poster session]. Language Fest, University of Connecticut.</p>
+
+<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2022, Nov. 4). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
+
+<p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2022, Apr. 27). <i>Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children.</i> [Poster session]. Language Fest, University of Connecticut.</p>
+
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2021, Apr. 29). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Virtual poster session]. Language Fest, University of Connecticut.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Santos, S., Walker, K., Carrigan, E., Shusterman, A. & Coppola, M. (2020, Aug. 27). <i>Delayed First Language Exposure Negatively Impacts Object Tracking: Evidence from Deaf and Hard of Hearing Children.</i> [Virtual poster session]. Mathematical Cognition and Learning Society (MCLS) Conference.</p>
 
