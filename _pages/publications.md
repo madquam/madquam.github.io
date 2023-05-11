@@ -19,6 +19,8 @@ redirect_from:
 
 ### Talks
 
+<p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2023, Jun. 26). <i>Does language experience and number knowledge predict children’s abilities to track both small and large sets of quantities?</i> In <i>The impact of language experience on mathematical abilities: Evidence from deaf and hard-of-hearing children and adults.</i> [Symposium]. Mathematical Cognition and Learning Society, Loughborough, UK.</p>
+
 <p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in American Sign Language]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b> (2022, Apr. 29). <i>The role of language in object tracking: evidence from deaf, hard- of-hearing and typically hearing children.</i> [Data blitz]. Connecticut Institute for the Brain and Cognitive Sciences Meet and Greet, University of Connecticut.</p>
