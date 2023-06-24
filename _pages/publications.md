@@ -12,14 +12,14 @@ redirect_from:
 <p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (2022). Conventionalization of iconic handshape preferences in family homesign systems. <i>Languages, 7(3),</i> 156.
 <br><a href="https://www.mdpi.com/2226-471X/7/3/156" target="_blank">Open Access Article</a></p>
 
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children.
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>in prep</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children.
 <br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
 
 ## Conference Presentations
 
 ### Talks
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2023, Jun. 6). <i>Does language experience and number knowledge predict children’s abilities to track both small and large sets of quantities?</i> In <i>The impact of language experience on mathematical abilities: Evidence from deaf and hard-of-hearing children and adults.</i> [Symposium]. Mathematical Cognition and Learning Society, Loughborough, UK.</p>
+<p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2023, Jun. 6). <i>Do language experience and number knowledge predict children’s abilities to track small and large quantities?</i> In <i>The impact of language experience on mathematical abilities: Evidence from deaf and hard-of-hearing children and adults.</i> [Symposium]. Mathematical Cognition and Learning Society, Loughborough, UK.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in American Sign Language]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
 
