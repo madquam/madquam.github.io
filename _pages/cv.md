@@ -18,6 +18,8 @@ redirect_from:
 <p style="margin-left: 40px"><b>MS in Psychological Sciences, Developmental Psychology Program</b>
 <br>University of Connecticut
 <br><i>May 2021</i></p> 
+ 
+<p style="margin-left: 40px"><b><i>Graduate Certificates:</b> Cognitive Science; Neurobiology of Language</i></p> 
 
 <p style="margin-left: 40px"><b>BA in Psychology and Linguistics</b>
 <br>University of Chicago
