@@ -76,6 +76,9 @@ redirect_from:
 
 ## Publications
 
+<p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2023). Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children. In P. Gappmayr & J. Kellogg (Eds.). <i>Proceedings of the 47th annual Boston University Conference on Language Development.</i> Somerville: Cascadilla Press.
+<br><a href="https://www.mdpi.com/2226-471X/7/3/156](http://www.lingref.com/bucld/47/BUCLD47-50.pdf" target="_blank">Open Access Article</a></p>
+
 <p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (2022). Conventionalization of iconic handshape preferences in family homesign systems. <i>Languages, 7(3),</i> 156.
 <br><a href="https://www.mdpi.com/2226-471X/7/3/156" target="_blank">Open Access Article</a></p>
 
