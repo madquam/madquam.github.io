@@ -13,7 +13,7 @@ If you are thinking about going to grad school (especially if you are first-gen,
 
 ## Commitment to Diversity, Equity & Inclusion
 
-<p style="margin-left: 40px"><b>MAGIC Co-Founder & Student Coordinator, University of Connecticut</b>
+<p style="margin-left: 40px"><b>MAGIC Co-Founder & Participant Coordinator, University of Connecticut</b>
 <br>"Mentoring Aspiring Graduate students and building an Inclusive Community" 
 <br><i>May 2021-present</i> 
 <br>•Publicity; outreach; compiled resources; organized meetings
@@ -27,7 +27,7 @@ If you are thinking about going to grad school (especially if you are first-gen,
 <br>•Worked with interpreting services to ensure full accessibility</p>
 
 <p style="margin-left: 40px"><b>DEI Committee, SLAC Trainee Program, University of Connecticut</b> 
-<br><i>May 2020-present</i>
+<br><i>May 2020-May 2023</i>
 <br>•Ran workshops and sessions for UConn Psychology Department and Science of Learning and Art of Communication (SLAC) trainees and fellows
 <br>•Met with division heads and convinced department to remove GRE requirement for future applicants</p>
 
