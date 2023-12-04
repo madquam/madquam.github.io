@@ -118,6 +118,8 @@ counting language in native signing deaf children.</i> [Poster session]. Languag
 
 ## Invited Talks
 
+<p style="margin-left: 40px"> <b>Quam, M.</b> (2023, Dec. 1). <i>Pragmatic Usage and Event Representation in Nicaraguan Homesign Systems.</i> Gallaudet University, Linguistics Department. [in American Sign Language].</p>
+
 <p style="margin-left: 40px">Coppola, M., Goodwin, C. & <b>Quam, M.</b> (2022, Apr. 19). <i>The Centrality of Language in Cognitive Development.</i> National Technical Institute for the Deaf, Rochester Institute of Technology. [Virtual, in American Sign Language].</p>
 
 <p style="margin-left: 40px">Coppola, M., <b>Quam, M.</b> & Goodwin, C. (2022, Mar. 28). <i>The Centrality of Language in Cognitive Development.</i> Center for Gesture, Sign, and Language, University of Chicago. [Virtual].</p>
@@ -126,13 +128,17 @@ counting language in native signing deaf children.</i> [Poster session]. Languag
 
 ## Teaching Experience
 
+<p style="margin-left: 40px"><b>PSYC 3450 TA</b>, University of Connecticut
+<br>Course TA (Lab in Developmental Psychology)
+<br><i>Spring 2024</i></p>
+
 <p style="margin-left: 40px"><b>PSYC 2400 TA</b>, University of Connecticut
 <br>Course TA (Developmental Psychology)
 <br><i>Spring 2023</i></p>
 
 <p style="margin-left: 40px"><b>PSYC 2100WQ TA</b>, University of Connecticut
-<br>Lab TA (Research Methods)
-<br><i>Fall 2022</i></p>
+<br>Lab Instructor (Research Methods)
+<br><i>Fall 2022 & 2023</i></p>
 
 ## Work Experience
 
