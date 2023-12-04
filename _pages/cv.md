@@ -128,7 +128,7 @@ counting language in native signing deaf children.</i> [Poster session]. Languag
 
 ## Teaching Experience
 
-<p style="margin-left: 40px"><b>PSYC 3450 TA</b>, University of Connecticut
+<p style="margin-left: 40px"><b>PSYC 3450W TA</b>, University of Connecticut
 <br>Course TA (Lab in Developmental Psychology)
 <br><i>Spring 2024</i></p>
 
