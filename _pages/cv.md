@@ -152,8 +152,8 @@ counting language in native signing deaf children.</i> [Poster session]. Languag
 ## Skills
 
 <p style="margin-left: 40px"><b>Technical</b>
-<br>R (including Markdown and github), PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
+<br>R (including Markdown and github), SPSS, PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
 
 <p style="margin-left: 40px"><b>Languages</b>
-<br>Heritage speaker of Spanish, intermediate user of American Sign Language, beginner user of Lengua de Señas Nicaragüense (Nicaraguan Sign Language)</p> 
+<br>Heritage speaker of Spanish, proficient user of American Sign Language, beginner user of Lengua de Señas Nicaragüense (Nicaraguan Sign Language)</p> 
 
