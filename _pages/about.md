@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth year graduate student in the Department of Psychological Sciences at the University of Connecticut. I work in the [Language Creation Lab](https://languagecreationlab.uconn.edu/) with Dr. Marie Coppola. I graduated from the University of Chicago in 2018 with a BA in Psychology and Linguistics and am currently pursuing a PhD in Developmental Psychology. 
+I'm a research scientist in the Department of Psychological Sciences at the University of Connecticut, working in the [Language Creation Lab](https://languagecreationlab.uconn.edu/) with Dr. Marie Coppola. I just earned my PhD in Developmental Psychology at UConn in 2024, and graduated from the University of Chicago in 2018 with a BA in Psychology and Linguistics. 
 
 Currently, I'm involved in the [Study of Language and Math (SLaM)](https://slam.uconn.edu/). I am also an affiliate of the [Connecticut Institute for the Brain and Cognitive Sciences (IBACS)](https://ibacs.uconn.edu/) and a trainee in the [Science of Learning and Art of Communication (SLAC)](http://slac.uconn.edu/). I have just completed graduate certificates in the [Neurobiology of Language program](https://nbl.cogsci.uconn.edu/) and the [Cognitive Science program](https://cogsci.uconn.edu/) at UConn.
 
