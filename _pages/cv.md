@@ -12,18 +12,17 @@ redirect_from:
 ## Education
 
 <p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b>
-<br>University of Connecticut
-<br><i>August 2024</i></p>  
+<br>University of Connecticut, <i>August 2024</i>
+<br>Dissertation: <i>Pragmatic Usage and Event Representation in Nicaraguan Homesign Systems</i></p> 
 
 <p style="margin-left: 40px"><b>MS in Psychological Sciences, Developmental Psychology Program</b>
-<br>University of Connecticut
-<br><i>May 2021</i></p> 
+<br>University of Connecticut, <i>May 2021</i>
+<br>Thesis: <i>The Role of Language in Object Tracking: Evidence from Deaf, Hard-of-Hearing, and Typically Hearing Children</i></p> 
  
 <p style="margin-left: 40px"><i><b>Graduate Certificates:</b> Cognitive Science; Neurobiology of Language</i></p> 
 
 <p style="margin-left: 40px"><b>BA in Psychology and Linguistics</b>
-<br>University of Chicago
-<br><i>June 2018</i></p>  
+<br>University of Chicago, <i>June 2018</i></p>  
 
 ## Grants, Honors & Awards
 
