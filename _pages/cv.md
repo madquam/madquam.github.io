@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b>
 <br>University of Connecticut
-<br><i>Expected 2024</i></p>  
+<br><i>August 2024</i></p>  
 
 <p style="margin-left: 40px"><b>MS in Psychological Sciences, Developmental Psychology Program</b>
 <br>University of Connecticut
@@ -54,10 +54,10 @@ redirect_from:
 ## Research Experience
 
 <p style="margin-left: 40px"><b>Language Creation Lab</b>
-<br><i>Graduate Assistant</i>
+<br><i>Graduate Researcher</i>
 <br> University of Connecticut
 <br>Supervisor: Marie Coppola
-<br>Projects: Study of Language and Math (SLaM); Nicaraguan Homesign Systems 
+<br>Projects: Study of Language and Math (SLaM); Event Representation in Nicaraguan Homesign Systems 
 <br><i>August 2019 — present</i></p>    
 
 <p style="margin-left: 40px"><b>Goldin-Meadow Lab</b>
@@ -151,9 +151,15 @@ counting language in native signing deaf children.</i> [Poster session]. Languag
 
 ## Skills
 
+<p style="margin-left: 40px"><b>Research</b>
+<br>Qualitative and quantitative methods, literature review, A/B testing, field methods, cross- cultural considerations, eye tracking, developmental methods (for children), eye tracking, community-based research practices, accessibility considerations, science communication, grant writing, project management</p>  
+
+<p style="margin-left: 40px"><b>Statiscal Analysis</b>
+<br>Model fitting, model comparison, hypothesis testing, linear and logistic regressions, mixed effect models, ANOVA, small sample sizes, data visualization</p> 
+
 <p style="margin-left: 40px"><b>Technical</b>
-<br>R (including Markdown and github), SPSS, PsychoPy, Elan (gesture/sign annotator), Microsoft Office</p>  
+<br>R (including Markdown and github), SPSS, PsychoPy, Elan (gesture/sign annotator), Qualtrics, Microsoft Office</p> 
 
 <p style="margin-left: 40px"><b>Languages</b>
-<br>Heritage speaker of Spanish, proficient user of American Sign Language, beginner user of Lengua de Señas Nicaragüense (Nicaraguan Sign Language)</p> 
+<br>Proficient in American Sign Language (ASL), heritage Spanish speaker, beginner user of Lengua de Señas Nicaragüense (Nicaraguan Sign Language)</p> 
 
