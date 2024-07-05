@@ -16,13 +16,13 @@ If you are thinking about going to grad school (especially if you are first-gen,
 <p style="margin-left: 40px"><b>MAGIC Co-Founder & Participant Coordinator, University of Connecticut</b>
 <br>"Mentoring Aspiring Graduate students and building an Inclusive Community" 
 <br><i>May 2021-present</i> 
-<br>•Publicity; outreach; compiled resources; organized meetings
+<br>•Publicity; outreach; Ran MAGIC Twitter account; compiled resources; organized meetings
 <br>•Recruited mentors; website support/FAQs; platform support for users; monitored signups/enrollment
-<br>•Ran MAGIC Twitter account
+<br>•Surveyed users to assess efficacy of program; applied for grants
 <br>•Met with mentees to give advice about graduate school; held virtual orientation sessions</p>
 
 <p style="margin-left: 40px"><b>Sign Language Research Discussion Group Coordinator, University of Connecticut</b> 
-<br><i>Aug 2020-present</i> 
+<br><i>Aug 2020-May 2024</i> 
 <br>•Organized weekly in meetings in American Sign Language
 <br>•Worked with interpreting services to ensure full accessibility</p>
 
@@ -32,6 +32,6 @@ If you are thinking about going to grad school (especially if you are first-gen,
 <br>•Met with division heads and convinced department to remove GRE requirement for future applicants</p>
 
 <p style="margin-left: 40px"><b>Harriott Fellowship Recipient, University of Connecticut</b> 
-<br><i>Aug 2019-present</i> 
+<br><i>Aug 2019-July 2024</i> 
 <br>•Five years of support awarded to promising PhD students ($20,000/year) who demonstrate a commitment to enhancing diversity in their field of study or in higher education in general
 <br>•Nine fellowships awarded throughout UConn (incoming graduate student population of 1300)</p>
