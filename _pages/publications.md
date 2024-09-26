@@ -22,6 +22,10 @@ redirect_from:
 
 ### Talks
 
+<p style="margin-left: 40px">Kocab, A., <b>Quam, M.</b> & Coppola, M. (2024, Nov.). <i>Who did what to whom? Marking event participants in Nicaraguan homesign systems.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
+
+<p style="margin-left: 40px">Canudas Grabolosa, I., <b>Quam, M.,</b> Coppola, M., Snedeker, J. C. & Kocab, A. (2024, Nov.). <i>The role of language in building one and two-place predicates: Event imitation in homesigners.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
+
 <p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2023, Jun. 6). <i>Do language experience and number knowledge predict children’s abilities to track small and large quantities?</i> In <i>The impact of language experience on mathematical abilities: Evidence from deaf and hard-of-hearing children and adults.</i> [Symposium]. Mathematical Cognition and Learning Society, Loughborough, UK.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> Brentari, D. & Coppola, M. (2022, Sept. 27). <i>Lexical conventionalization requires a community of primary users, communicative interactions are not enough.</i> [Stage presentation in American Sign Language]. Theoretical Issues in Sign Language Research, Osaka, Japan.</p>
