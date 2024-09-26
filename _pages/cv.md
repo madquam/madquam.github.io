@@ -105,7 +105,7 @@ redirect_from:
 
 ### Posters
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A., Snedeker, J. C. & Coppola, M., (2024, Jan.). <i>Distinguishing Agents and Patients in Homesign Language Systems.</i> [Poster session in American Sign Language]. Theoretical Issues in Sign Language Research, Addis Ababa, Ethiopia.</p>
+<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A., Snedeker, J. C. & Coppola, M., (2025, Jan.). <i>Distinguishing Agents and Patients in Homesign Language Systems.</i> [Poster session in American Sign Language]. Theoretical Issues in Sign Language Research, Addis Ababa, Ethiopia.</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A. & Coppola, M. (2024, Nov.). <i>Pragmatic knowledge in asymmetric language contexts.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
 
