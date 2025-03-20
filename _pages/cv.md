@@ -84,13 +84,16 @@ redirect_from:
 <p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children.
 <br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
 
+<p style="margin-left: 40px"><b>Quam, M.</b>, Kocab, A. & Coppola, M. (<i>in prep</i>). Using language may not depend on acquiring a language: Evidence from adult homesigners.
+<br><a href="https://github.com/madquam/Pragmatics-Events-Homesign/blob/main/Noun-Modifier.Rmd" target="_blank">Github Repo</a></p>
+
 ## Conference Presentations
 
 ### Talks
 
-<p style="margin-left: 40px">Kocab, A., <b>Quam, M.</b> & Coppola, M. (2024, Nov.). <i>Who did what to whom? Marking event participants in Nicaraguan homesign systems.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
+<p style="margin-left: 40px">Kocab, A., <b>Quam, M.</b> & Coppola, M. (2024, Nov. 10). <i>Who did what to whom? Marking event participants in Nicaraguan homesign systems.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
 
-<p style="margin-left: 40px">Canudas Grabolosa, I., <b>Quam, M.,</b> Coppola, M., Snedeker, J. C. & Kocab, A. (2024, Nov.). <i>The role of language in building one and two-place predicates: Event imitation in homesigners.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
+<p style="margin-left: 40px">Canudas Grabolosa, I., <b>Quam, M.,</b> Coppola, M., Snedeker, J. C. & Kocab, A. (2024, Nov. 8). <i>The role of language in building one and two-place predicates: Event imitation in homesigners.</i> [Stage presentation]. Boston University Conference on Language Development (BUCLD).</p>
 
 <p style="margin-left: 40px"><b>Quam, M.,</b> & Coppola, M. (2023, Jun. 6). <i>Do language experience and number knowledge predict children’s abilities to track small and large quantities?</i> In <i>The impact of language experience on mathematical abilities: Evidence from deaf and hard-of-hearing children and adults.</i> [Symposium]. Mathematical Cognition and Learning Society, Loughborough, UK.</p>
 
@@ -105,9 +108,9 @@ redirect_from:
 
 ### Posters
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A., Snedeker, J. C. & Coppola, M., (2025, Jan.). <i>Distinguishing Agents and Patients in Homesign Language Systems.</i> [Poster session in American Sign Language]. Theoretical Issues in Sign Language Research, Addis Ababa, Ethiopia.</p>
+<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A., Snedeker, J. C. & Coppola, M., (2025, Jan. 14). <i>Distinguishing Agents and Patients in Homesign Language Systems.</i> [Poster session in American Sign Language]. Theoretical Issues in Sign Language Research, Addis Ababa, Ethiopia.</p>
 
-<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A. & Coppola, M. (2024, Nov.). <i>Pragmatic knowledge in asymmetric language contexts.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
+<p style="margin-left: 40px"><b>Quam, M.,</b> Kocab, A. & Coppola, M. (2024, Nov. 9). <i>Pragmatic knowledge in asymmetric language contexts.</i> [Poster session]. Boston University Conference on Language Development (BUCLD).</p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Gill, M., Lopez, J., Scroggins, L. & Coppola, M. (2023, Apr. 26). <i>What can we
 learn from children’s counting errors in ASL and English?</i> [Poster session]. Language Fest, University of Connecticut.</p>
