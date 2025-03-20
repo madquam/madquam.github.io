@@ -15,7 +15,7 @@ If you are thinking about going to grad school (especially if you are first-gen,
 
 <p style="margin-left: 40px"><b>MAGIC Co-Founder & Participant Coordinator, University of Connecticut</b>
 <br>"Mentoring Aspiring Graduate students and building an Inclusive Community" 
-<br><i>May 2021-present</i> 
+<br><i>May 2021-Oct 2024</i> 
 <br>•Publicity; outreach; Ran MAGIC Twitter account; compiled resources; organized meetings
 <br>•Recruited mentors; website support/FAQs; platform support for users; monitored signups/enrollment
 <br>•Surveyed users to assess efficacy of program; applied for grants
