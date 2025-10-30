@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2025). Delayed First Language Exposure Negatively Impacts Representation of Small Quantities: Evidence from Deaf and Hard-of-Hearing Children.
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2025). Delayed First Language Exposure Negatively Impacts Representation of Small Quantities: Evidence from Deaf and Hard-of-Hearing Children. <i>Open Mind, 9,</i> 1657–1681.
 <br><a href="https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.32/133670/Delayed-First-Language-Exposure-Negatively-Impacts" target="_blank">Open Access Article</a>, <a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2023). Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children. In P. Gappmayr & J. Kellogg (Eds.). <i>Proceedings of the 47th annual Boston University Conference on Language Development.</i> Somerville: Cascadilla Press.
