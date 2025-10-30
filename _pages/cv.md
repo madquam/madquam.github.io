@@ -75,14 +75,14 @@ redirect_from:
 
 ## Publications
 
+<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2025). Delayed First Language Exposure Negatively Impacts Representation of Small Quantities: Evidence from Deaf and Hard-of-Hearing Children.
+<br><a href="https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.32/133670/Delayed-First-Language-Exposure-Negatively-Impacts" target="_blank">Open Access Article</a>, <a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
+
 <p style="margin-left: 40px"><b>Quam, M.</b> & Coppola, M. (2023). Are measures of nonverbal reasoning truly nonlinguistic? Evidence from deaf, hard-of-hearing and typically hearing children. In P. Gappmayr & J. Kellogg (Eds.). <i>Proceedings of the 47th annual Boston University Conference on Language Development.</i> Somerville: Cascadilla Press.
 <br><a href="http://www.lingref.com/bucld/47/BUCLD47-50.pdf" target="_blank">Open Access Article</a></p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Brentari, D. & Coppola, M. (2022). Conventionalization of iconic handshape preferences in family homesign systems. <i>Languages, 7(3),</i> 156.
 <br><a href="https://www.mdpi.com/2226-471X/7/3/156" target="_blank">Open Access Article</a></p>
-
-<p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (<i>under review</i>). Delays in exposure to language affect tracking of small quantities in deaf and hard of hearing children.
-<br><a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Kocab, A. & Coppola, M. (<i>in prep</i>). Using language may not depend on acquiring a language: Evidence from adult homesigners.
 <br><a href="https://github.com/madquam/Pragmatics-Events-Homesign/blob/main/Noun-Modifier.Rmd" target="_blank">Github Repo</a></p>
