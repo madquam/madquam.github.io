@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-<p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b>
+<p style="margin-left: 40px"><b>PhD in Psychological Sciences, Developmental Psychology Program</b> 
 <br>University of Connecticut, <i>August 2024</i>
 <br>Dissertation: <i>Pragmatic Usage and Event Representation in Nicaraguan Homesign Systems</i></p> 
 
