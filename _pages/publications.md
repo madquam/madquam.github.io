@@ -10,7 +10,8 @@ redirect_from:
 ## Publications
 
 <p style="margin-left: 40px">Canudas-Grabolosa, I., <b>Quam, M.</b>, Coppola, M., Snedeker, J. & Kocab, A. (2026). Is a linguistic model needed to build abstract event representations? <i>Cognition, 271,</i> 10647. 
-<br><a href="https://www.sciencedirect.com/science/article/pii/S0010027726000405?ref=pdf_download&fr=RR-2&rr=9cde5612e8d3c639">Article</a></p>
+<br><a href="https://www.sciencedirect.com/science/article/pii/S0010027726000405?ref=pdf_download&fr=RR-2&rr=9cde5612e8d3c639">Article</a>,
+<a href="https://madquam.github.io/files/Canudas-Grabolosa et al 2026.pdf">PDF</a> </p>
 
 <p style="margin-left: 40px"><b>Quam, M.</b>, Carrigan, E., Walker, K., Shusterman, A. & Coppola, M. (2025). Delayed first language Exposure negatively impacts representation of small quantities: Evidence from deaf and hard-of-hearing children. <i>Open Mind, 9,</i> 1657–1681. 
 <br><a href="https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.32/133670/Delayed-First-Language-Exposure-Negatively-Impacts" target="_blank">Open Access Article</a>, <a href="https://github.com/madquam/Mr-Elephant/" target="_blank">Github Repo</a></p>
